@@ -9,11 +9,11 @@ Using a bulleted list, address the following election outcomes. Use images or ex
 
 * There were 369,711 votes cast in this election.
 * A breakdown of the number of votes and the percentage of total votes for each county in the precinct is below: <br />
-![county_votes](https://github.com/borkard/election-analysis/blob/main/county_votes.png?raw=true)
+![county_votes](https://github.com/borkard/election_analysis/blob/main/county_votes.PNG)
 
 * Denver is the county with the largest number of votes.
 * **Provide a breakdown of the number of votes and the percentage of the total votes each candidate received.**
-![candidate_results](https://github.com/borkard/election-analysis/blob/main/candidate_results.png?raw=true)
+![candidate_results](https://github.com/borkard/election_analysis/blob/main/candidate_results.PNG)
 
 * The winning candidate results are below:<br />
   Winner: Diana DeGette<br />
