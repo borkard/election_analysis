@@ -5,7 +5,6 @@
 The purpose of this election analysis was to determine the winner of the election after a thorough analysis of the votes and percentage of votes cast for each candidate in the election, as well as a breakdown by county and to determine the county with the largest turnout. The election-audit analysis was conducted through a Python script that ran through the election_results.csv file with all the data from the election and counted the votes per candidate and by county to determine the winner and largest county turnout, as well as information on the number and percentage of votes for each candidate and county.
 
 ## Election-Audit Results
-Using a bulleted list, address the following election outcomes. Use images or examples of your code as support where necessary.
 
 * There were **369,711** votes cast in this election.
 * A breakdown of the number of votes and the percentage of total votes for each county in the precinct is below: <br />
